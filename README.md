@@ -121,13 +121,6 @@ Download or view the main Power BI report here:
 
 ---
 
-## 📎 Reference
-
-Dashboard concept inspired by:  
-https://youtu.be/5DUv5Wxl7zM?si=H9e8GC1rv45AipmL
-
----
-
 ## 👤 Author  
 **Sachin Shinde**  
 Power BI | SQL | Data Analyst Projects  
