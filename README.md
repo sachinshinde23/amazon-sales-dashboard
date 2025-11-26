@@ -1,4 +1,4 @@
-# amazon-sales-dashboard
+# amazon-sales-dashboard-powerBI
 # Amazon E-Commerce Sales Analytics Dashboard (Power BI)
 
 This repository contains an interactive Power BI dashboard created for analyzing Amazon E-Commerce product sales.  
